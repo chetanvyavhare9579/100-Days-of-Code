@@ -70,7 +70,7 @@ I’ll also share my daily progress on **LinkedIn**.
 
 ## 📌 Connect with Me
 - LinkedIn: [www.linkedin.com/in/chetan-vyavhare]  
-- GitHub: []  
+- GitHub: [https://github.com/chetanvyavhare9579]  
 
 ---
 
