@@ -19,7 +19,7 @@ I’ll also share my daily progress on **LinkedIn**.
 | Day | Project/Problem | GitHub Link |
 |-----|-----------------|-------------|
 | 1   | 🎯 Number Guessing Game | [Day 1 Code](https://github.com/chetanvyavhare9579/100-Days-of-Code/blob/main/number_guessing_game.py) |✅
-| 2   | ✂️ Rock Paper Scissors | [Day 2 Code]() |
+| 2   | ✂️ Rock Paper Scissors | [Day 2 Code](https://github.com/chetanvyavhare9579/100-Days-of-Code/blob/main/rock_paper_scissors.py) |✅
 | 3   | 🎲 Dice Roller Simulator | [Day 3 Code]() |
 | 4   | 🔑 Password Generator | [Day 4 Code]() |
 | 5   | 🧮 Calculator App | [Day 5 Code]()|
