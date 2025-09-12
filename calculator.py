@@ -1,7 +1,7 @@
 import math
 
 def calculator():
-    print("🔢 Professional Python Calculator")
+    print("Professional Python Calculator")
     print("----------------------------------")
     print("Operations Available:")
     print("1. ➕ Addition")
@@ -84,3 +84,4 @@ def calculator():
 
 if __name__ == "__main__":
     calculator()
+
